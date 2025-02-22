@@ -1,0 +1,17 @@
+{
+    "name": "sppay/payment-manager",
+    "description": "test payment manager for sppay",
+    "version": "1.0.0",
+    "type": "package",
+    "autoload": {
+        "psr-4": {
+            "Sppay\\PaymentManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "michael boateng"
+        }
+    ],
+    "require": {}
+}
